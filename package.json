@@ -17,5 +17,6 @@
   "standard": {
     "global": ["it", "describe"]
   },
-  "main": "index"
+  "main": "index",
+  "license": "MIT"
 }
