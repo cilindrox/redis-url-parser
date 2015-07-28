@@ -1,6 +1,6 @@
 {
   "name": "redis-url-parser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Redis URL parser",
   "keywords": [],
   "author": "Gaston Festari <cilindrox@gmail.com>",
@@ -15,7 +15,10 @@
     "standard": "^4.5.4"
   },
   "standard": {
-    "global": ["it", "describe"]
+    "global": [
+      "it",
+      "describe"
+    ]
   },
   "main": "index",
   "license": "MIT"
