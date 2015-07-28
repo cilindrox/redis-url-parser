@@ -3,6 +3,8 @@
 
   A Redis URL parser
 
+[![Build Status](https://travis-ci.org/cilindrox/redis-url-parser.svg)](https://travis-ci.org/cilindrox/redis-url-parser) [![Code Climate](https://codeclimate.com/github/cilindrox/redis-url-parser/badges/gpa.svg)](https://codeclimate.com/github/cilindrox/redis-url-parser) [![Test Coverage](https://codeclimate.com/github/cilindrox/redis-url-parser/badges/coverage.svg)](https://codeclimate.com/github/cilindrox/redis-url-parser/coverage)
+
 ## Installation
 
 ```bash
